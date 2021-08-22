@@ -1,0 +1,6 @@
+const HALAMAN_UTAMA_ROUTE = "/";
+const HALAMAN_TAMBAH_KEGIATAN_ROUTE = "/tambah_kegiatan";
+const HALAMAN_UBAH_KEGIATAN_ROUTE = "/ubah_kegiatan";
+
+const KEGIATAN_SELESAI = "SELESAI";
+const KEGIATAN_BELUM_SELESAI = "BELUMSELESAI";
